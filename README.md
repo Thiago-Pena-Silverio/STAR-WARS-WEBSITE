@@ -10,7 +10,7 @@ Static fan website about the Star Wars franchise, built with pure HTML as a univ
 
 🎓 **Context:**
 
-This project is a simple website about the **Star Wars** franchise, developed as part of an academic assignment, the main goal was to practice basic HTML by creating a multi-page site with structured content and navigation.
+This project is a simple website about the Star Wars franchise, developed as part of an academic assignment, the main goal was to practice basic HTML by creating a multi-page site with structured content and navigation.
 
 📄 **Pages:**
 
