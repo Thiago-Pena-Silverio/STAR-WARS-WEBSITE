@@ -18,7 +18,7 @@ This project is a simple website about the **Star Wars** franchise, developed as
 
 **Characters:** Profiles of the main characters, including Darth Vader, Obi Wan Kenobi, Luke Skywalker, Yoda, Han Solo, and Chewbacca.
 
-**Cultural Impact:** Overview of Star Wars' influence on pop culture, the film industry, and its legacy as one of the most iconic franchises in cinema history.
+**Cultural Impact:** Overview of Star Wars influence on pop culture, the film industry, and its legacy as one of the most iconic franchises in cinema history.
 
 🛠️ **Tech Stack:**
 
