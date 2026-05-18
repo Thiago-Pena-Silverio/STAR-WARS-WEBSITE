@@ -1,8 +1,8 @@
 # STAR-WARS-WEBSITE
 
-Static fan website about the Star Wars franchise — built with pure HTML as a university assignment
+Static fan website about the Star Wars franchise, built with pure HTML as a university assignment
 
-> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in **Portuguese**.
+> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in Portuguese.
 
 ---
 
