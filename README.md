@@ -1,18 +1,16 @@
-# STAR-WARS-WEBSITE
+# Star Wars Fan Website
 
-Static fan website about the Star Wars franchise, built with pure HTML as a university assignment
+Static fan website about the Star Wars franchise, built with HTML and embedded CSS as a university assignment
 
 > ⚠️ **Note:** This project was developed for academic purposes and the page content is written in Portuguese.
 
 ---
 
-**Name of the site:** Star Wars Fan Website
-
-🎓 **Context:**
+## 🎓 Context
 
 This project is a simple website about the Star Wars franchise, developed as part of an academic assignment. The main goal was to practice basic HTML by creating a multi-page site with structured content and navigation.
 
-📄 **Pages:**
+## 📄 Pages
 
 **Main Page:** Introduction and overview of the Star Wars franchise, its origin, and cultural impact
 
@@ -20,12 +18,12 @@ This project is a simple website about the Star Wars franchise, developed as par
 
 **Cultural Impact:** Overview of Star Wars influence on pop culture, the film industry, and its legacy as one of the most iconic franchises in cinema history.
 
-🛠️ **Tech Stack:**
+## 🛠️ Tech Stack
 
-- HTML5 (only)
-- No CSS, no JavaScript (raw structure only)
+- HTML5
+- Embedded CSS for page layout and styling
 
-🎖️ **Features:**
+## 🎖️ Features
 
 - Franchise history and overview 🎬
 
@@ -35,7 +33,7 @@ This project is a simple website about the Star Wars franchise, developed as par
   
 ---
 
-🖥️ **How to Run**
+## 🖥️ How to Run
 
 **Requirements:**
 
